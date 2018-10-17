@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-tests-production": "newman run tests/Postman Jenkins.postman_collection.json"
+    "api-tests-production": "newman run tests/Postman-Jenkins.postman_collection.json"
   },
   "author": "Tim de Weerd",
   "dependencies": {
