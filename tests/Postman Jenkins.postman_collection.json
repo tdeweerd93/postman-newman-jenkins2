@@ -1,12 +1,12 @@
 {
 	"info": {
 		"_postman_id": "515d3e79-58d8-4abd-911d-b48c979cd66a",
-		"name": "Postman-Jenkins",
+		"name": "Postman Jenkins",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "Postman-jenkins test 1",
+			"name": "Postman jenkins test 1",
 			"event": [
 				{
 					"listen": "test",
